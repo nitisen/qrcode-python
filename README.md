@@ -6,6 +6,6 @@ QR codes are machine readable two dimensional pixelated barcodes which can be us
 
 Installation: 
 
-pip install qrcode
-pip install pillow
-pip install image
+1) pip install qrcode
+2) pip install pillow
+3) pip install image
